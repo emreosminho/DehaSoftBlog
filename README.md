@@ -32,3 +32,6 @@ Bu proje, PHP Laravel Filament kullanılarak geliştirilmiş basit bir blog uygu
 ### 6. Text Widget
 ![admin4](https://github.com/emreosminho/DehaSoftBlog/assets/83945108/b7a91218-0086-4ada-a00a-e180d4287f30)
 ### 7. New Category/Post/Text Widget
+![create1](https://github.com/emreosminho/DehaSoftBlog/assets/83945108/632305c3-5653-46bd-b036-63d7ef5acbc3)
+![create2](https://github.com/emreosminho/DehaSoftBlog/assets/83945108/cab63995-22c6-4796-82a6-5f0f69d7f43f)
+![create3](https://github.com/emreosminho/DehaSoftBlog/assets/83945108/9d8c2643-9e0e-4e88-b01e-d4a02efbbd86)
