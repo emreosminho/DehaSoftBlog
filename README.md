@@ -20,7 +20,7 @@ Bu proje, PHP Laravel Filament kullanılarak geliştirilmiş basit bir blog uygu
 
 ## Blog Görüntüleri
 ### 1. Sign in
-
+![login2](https://github.com/emreosminho/DehaSoftBlog/assets/83945108/38351efe-88cf-4bc0-b6b5-1432fc69ee38)
 ### 2. Sign out
 
 ### 3. Admin Panel
