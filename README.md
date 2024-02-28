@@ -18,17 +18,17 @@ Bu proje, PHP Laravel Filament kullanılarak geliştirilmiş basit bir blog uygu
 - **Minor Bug Fixes**: Uygulamada bulunan küçük hatalar giderilmiştir.
 - **SEO Meta Fields**: Gönderiler için SEO meta alanları eklenmiştir.
 
-##Blog Görüntüleri
-###1. Sign in
+## Blog Görüntüleri
+### 1. Sign in
 
-###2. Sign out
+### 2. Sign out
 
-###3. Admin Panel
+### 3. Admin Panel
 
-###4. Categories
+### 4. Categories
 
-###5. Post
+### 5. Post
 
-###6. Text Widget
+### 6. Text Widget
 
-###7. New Category/Post/Text Widget
+### 7. New Category/Post/Text Widget
