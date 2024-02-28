@@ -19,7 +19,6 @@ Bu proje, PHP Laravel Filament kullanılarak geliştirilmiş basit bir blog uygu
 - **SEO Meta Fields**: Gönderiler için SEO meta alanları eklenmiştir.
 
 ##Blog Görüntüleri
-
 ###1. Sign in
 
 ###2. Sign out
