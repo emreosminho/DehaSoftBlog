@@ -35,3 +35,6 @@ Bu proje, PHP Laravel Filament kullanılarak geliştirilmiş basit bir blog uygu
 ![create1](https://github.com/emreosminho/DehaSoftBlog/assets/83945108/632305c3-5653-46bd-b036-63d7ef5acbc3)
 ![create2](https://github.com/emreosminho/DehaSoftBlog/assets/83945108/cab63995-22c6-4796-82a6-5f0f69d7f43f)
 ![create3](https://github.com/emreosminho/DehaSoftBlog/assets/83945108/9d8c2643-9e0e-4e88-b01e-d4a02efbbd86)
+### 8. Blog
+![blog1](https://github.com/emreosminho/DehaSoftBlog/assets/83945108/6ca8d0b1-b518-46b7-bb5c-c0b4ea9b051d)
+![blog2](https://github.com/emreosminho/DehaSoftBlog/assets/83945108/1567b0fd-61c3-4555-b122-a1e56d293349)
